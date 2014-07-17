@@ -48,7 +48,6 @@ silk/ana_filt_bank_1.c \
 silk/biquad_alt.c \
 silk/bwexpander_32.c \
 silk/bwexpander.c \
-silk/debug.c \
 silk/decode_pitch.c \
 silk/inner_prod_aligned.c \
 silk/lin2log.c \
@@ -75,6 +74,7 @@ silk/stereo_decode_pred.c \
 silk/stereo_encode_pred.c \
 silk/stereo_find_predictor.c \
 silk/stereo_quant_pred.c
+#silk/debug.c \
 
 
 SILK_SOURCES_FIXED = \

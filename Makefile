@@ -29,6 +29,7 @@ include $(LIBRE_MK)
 # List of modules
 MODULES += fir
 MODULES += g711
+MODULES += opus
 MODULES += aubuf aufile auresamp autone
 
 ifneq ($(HAVE_LIBPTHREAD),)

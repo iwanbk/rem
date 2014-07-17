@@ -13,3 +13,4 @@
 #include "rem_fir.h"
 #include "rem_auresamp.h"
 #include "rem_g711.h"
+#include "rem_opus.h"
